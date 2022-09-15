@@ -1,0 +1,51 @@
+---
+title: "Finanzielle Effekte der OA Transformation"
+author: "<b>Anne Hobert</b>,<br>in Zusammenarbeit mit Nicholas Fraser, Isabella Peters, Philipp Mayr, Najko Jahn"
+date: "<br>19. September 2022<br>Workshop Open-Access-Analysen für die Praxis, OA Tage 2022"
+output:
+  ioslides_presentation:
+    widescreen: true
+#    logo: bmbf-logo.png
+#    css: slide.css
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Untersuchte Fragestellung
+
+1.  Welche Auswirkungen haben die Vertragsverhandlungen mit Elsevier und die Zugangsbeschränkungen auf
+
+    a.  das Publikationsverhalten der Autor:innen an DEAL-Einrichtungen
+
+    b.  das Zitationsverhalten der Autor:innen an DEAL-Einrichtungen
+
+2.  Welche Rolle spielen dabei der Zeitpunkt der Zugangsbeschränkungen, die Fachdisziplin, Kollaborationsmodelle und der OA-Status der Publikationen?
+
+## Zentrale Ergebnisse
+
+<div class="columns-2">
+Publikationsverhalten
+
+- Marktanteil von Elsevier erreicht Maximum von 26,3% in 2015, fällt danach auf 20,8% in 2020 (absolute Anzahl analog), stärkster Verlust in 2020 mit -1,6%
+-  Bemerkenswert: vor allem starke Verluste (anteilig) bei Hybrid OA
+
+Zitationsverhalten
+
+- Marktanteilverluste auch bei Zitationszahlen (Ausnahme: 2018 +0,6%), stärkster Verlust in 2020 mit -0,6%, absolute Anzahl steigt
+- Anteil der Artikel, die mindestens einen Elsevierartikel zitieren relativ konstant bei ca. 57%
+</div>
+<br>
+Effekte insgesamt von geringerem Ausmaß als man basierend auf qualitativen Erhebungen erwarten würde, bei Publikationen stärker als bei Zitationen
+
+## Diskussionsanregungen
+
+-   Die Ergebnisse stehen zum Teil im Kontrast zu qualitativen Erhebungen unter Wissenschaftler:innen. Was können Gründe hierfür sein? Was bedeutet das für zukünftige Erhebungen und Untersuchungen? Welche Datengrundlage ist nötig für detailiertere Untersuchungen?
+
+-   Zeitliche Dimension: Werden die Effekte möglicherweise erst später sichtbar?
+
+-   Welche Rolle spielen Ihrer/Eurer Erfahrung nach finanzielle Überlegungen bzw. die öffentliche Wahrnehmung für Autor:innen bei der Journalauswahl?
+
+-   Was für Schlüsse für zukünftige Vertragsverhandlungen mit Verlagen können hieraus gezogen werden?
